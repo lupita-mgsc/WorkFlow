@@ -25,7 +25,7 @@ En Photoshop, una plantilla es un documento normal que se ha creado teniendo una
 
 ## Los elementos de la plantilla de carnet para datos variables
 
-![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29472153_1601730243208894_8276500493056868352_n.jpg?oh=6ebbf7db6f23ab19afb9edeb043afe84&oe=5B37269C)
+![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29432636_1601729189875666_1468647728811606016_n.jpg?_nc_cat=0&oh=cfce01032a8f26d025d5aa96600f3a5b&oe=5B339CED)
 
 Una vez que se teiene la idea de la plantilla y de qué partes serán variables, creamos el documento en Photoshop conservando en capas separadas todos los elementos que creamos convenientes y, sobre todo, aquellos que vayan tratarse como variables, una por capa.
 
